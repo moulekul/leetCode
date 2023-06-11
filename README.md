@@ -1,2 +1,2 @@
 # LeetCode Solutions with Tests
-Using LeetCode's toy problems, found at https://leetcode.com, to improve my knowledge of computer science fundamentals alongside writing some tests using Jest. The clear inputs, outputs and scale of these problems means that they have been a perfect exercise for improving my knowledge of TDD. I've also been able to get some really nice efficiency gains from the tests themselves.
+Using LeetCode's toy problems, found at https://leetcode.com, to improve my knowledge of computer science fundamentals alongside writing some tests using Jest to better my understanding of TDD (Test Driven Development).
